@@ -1,0 +1,87 @@
+name: Daily Auto Shorts (5x/day)
+
+on:
+  schedule:
+    - cron: "0 6 * * *"      # Post 1: 6:00 AM UTC (11:30 AM India)
+    - cron: "0 10 * * *"     # Post 2: 10:00 AM UTC (3:30 PM India)
+    - cron: "0 14 * * *"     # Post 3: 2:00 PM UTC (7:30 PM India)
+    - cron: "0 18 * * *"     # Post 4: 6:00 PM UTC (11:30 PM India)
+    - cron: "0 22 * * *"     # Post 5: 10:00 PM UTC (3:30 AM India)
+  workflow_dispatch:
+
+jobs:
+  generate-and-upload:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+        cache: 'pip'
+
+    - name: Install FFmpeg
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg
+
+    - name: Cache Vosk Model
+      uses: actions/cache@v3
+      with:
+        path: vosk-model-small-en-us-0.15
+        key: vosk-en-model-${{ runner.os }}
+
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Check and generate topics if needed
+      run: |
+        python generate_topics.py
+
+    - name: Generate daily short video (with retry logic)
+      env:
+        POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+      run: |
+        python run_with_retry.py
+
+    - name: Upload to all platforms
+      env:
+        # YouTube
+        YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+        YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+        YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        # Instagram
+        IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        # TikTok (optional)
+        TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+        # Facebook
+        FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
+        FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+        # Threads
+        THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        # Twitter/X (optional)
+        TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+        TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+        TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+        TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+        # Telegram (optional)
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+      run: |
+        python upload_all_platforms.py
+
+    - name: Commit state (used_topics + topic index) back to repo
+      run: |
+        git config user.name "auto-bot"
+        git config user.email "bot@users.noreply.github.com"
+        git add used_topics.txt current_topic_index.txt topics.txt
+        git diff --cached --quiet || git commit -m "auto: update topic tracking [skip ci]"
+        git push
+
