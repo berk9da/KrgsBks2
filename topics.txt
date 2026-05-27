@@ -1,0 +1,603 @@
+﻿[BOOK] The Aeneid by Virgil
+[BOOK] Metamorphoses by Ovid
+[BOOK] The Republic by Plato
+[BOOK] Symposium by Plato
+[BOOK] Apology by Plato
+[BOOK] Nicomachean Ethics by Aristotle
+[BOOK] Poetics by Aristotle
+[BOOK] Meditations by Marcus Aurelius
+[BOOK] The Histories by Herodotus
+[BOOK] The Peloponnesian War by Thucydides
+[BOOK] Oedipus Rex by Sophocles
+[BOOK] Antigone by Sophocles
+[BOOK] Electra by Sophocles
+[BOOK] Medea by Euripides
+[BOOK] The Bacchae by Euripides
+[BOOK] Hippolytus by Euripides
+[BOOK] The Oresteia by Aeschylus
+[BOOK] Prometheus Bound by Aeschylus
+[BOOK] The Frogs by Aristophanes
+[BOOK] The Clouds by Aristophanes
+[BOOK] Lysistrata by Aristophanes
+[BOOK] Confessions by Augustine
+[BOOK] The City of God by Augustine
+[BOOK] The Golden Ass by Apuleius
+[BOOK] The Analects by Confucius
+[BOOK] Tao Te Ching by Laozi
+[BOOK] The Art of War by Sun Tzu
+[BOOK] The Epic of Gilgamesh by Anonymous
+[BOOK] Beowulf by Anonymous
+[BOOK] The Song of Roland by Anonymous
+[BOOK] One Thousand and One Nights by Anonymous
+[BOOK] The Tale of Genji by Murasaki Shikibu
+[BOOK] The Pillow Book by Sei Shonagon
+[BOOK] The Divine Comedy by Dante Alighieri
+[BOOK] The Decameron by Giovanni Boccaccio
+[BOOK] The Canterbury Tales by Geoffrey Chaucer
+[BOOK] Le Morte d'Arthur by Thomas Malory
+[BOOK] The Prince by Niccolò Machiavelli
+[BOOK] Utopia by Thomas More
+[BOOK] The Praise of Folly by Erasmus
+[BOOK] Essays by Michel de Montaigne
+[BOOK] Don Quixote by Miguel de Cervantes
+[BOOK] The Faerie Queene by Edmund Spenser
+[BOOK] Paradise Lost by John Milton
+[BOOK] Paradise Regained by John Milton
+[BOOK] Samson Agonistes by John Milton
+[BOOK] The Pilgrim's Progress by John Bunyan
+[BOOK] Pensées by Blaise Pascal
+[BOOK] Fables by Jean de La Fontaine
+[BOOK] The Misanthrope by Molière
+[BOOK] Tartuffe by Molière
+[BOOK] Phèdre by Jean Racine
+[BOOK] Andromaque by Jean Racine
+[BOOK] The Way of the World by William Congreve
+[BOOK] Gulliver's Travels by Jonathan Swift
+[BOOK] A Modest Proposal by Jonathan Swift
+[BOOK] A Tale of a Tub by Jonathan Swift
+[BOOK] Robinson Crusoe by Daniel Defoe
+[BOOK] Moll Flanders by Daniel Defoe
+[BOOK] A Journal of the Plague Year by Daniel Defoe
+[BOOK] Candide by Voltaire
+[BOOK] Zadig by Voltaire
+[BOOK] Micromégas by Voltaire
+[BOOK] The Social Contract by Jean-Jacques Rousseau
+[BOOK] Emile by Jean-Jacques Rousseau
+[BOOK] Tom Jones by Henry Fielding
+[BOOK] Joseph Andrews by Henry Fielding
+[BOOK] Clarissa by Samuel Richardson
+[BOOK] Pamela by Samuel Richardson
+[BOOK] Tristram Shandy by Laurence Sterne
+[BOOK] A Sentimental Journey by Laurence Sterne
+[BOOK] The Vicar of Wakefield by Oliver Goldsmith
+[BOOK] The Castle of Otranto by Horace Walpole
+[BOOK] The Mysteries of Udolpho by Ann Radcliffe
+[BOOK] The Monk by Matthew Lewis
+[BOOK] Northanger Abbey by Jane Austen
+[BOOK] Sense and Sensibility by Jane Austen
+[BOOK] Pride and Prejudice by Jane Austen
+[BOOK] Mansfield Park by Jane Austen
+[BOOK] Emma by Jane Austen
+[BOOK] Persuasion by Jane Austen
+[BOOK] Lady Susan by Jane Austen
+[BOOK] The Sorrows of Young Werther by Goethe
+[BOOK] Faust Part One by Goethe
+[BOOK] Faust Part Two by Goethe
+[BOOK] Wilhelm Meister's Apprenticeship by Goethe
+[BOOK] The Robbers by Friedrich Schiller
+[BOOK] William Tell by Friedrich Schiller
+[BOOK] Mary Stuart by Friedrich Schiller
+[BOOK] Nathan the Wise by Gotthold Ephraim Lessing
+[BOOK] The Marriage of Figaro by Beaumarchais
+[BOOK] Dangerous Liaisons by Choderlos de Laclos
+[BOOK] Paul and Virginia by Bernardin de Saint-Pierre
+[BOOK] The Last of the Mohicans by James Fenimore Cooper
+[BOOK] The Pioneers by James Fenimore Cooper
+[BOOK] The Deerslayer by James Fenimore Cooper
+[BOOK] The Pathfinder by James Fenimore Cooper
+[BOOK] The Prairie by James Fenimore Cooper
+[BOOK] Waverley by Walter Scott
+[BOOK] Ivanhoe by Walter Scott
+[BOOK] Rob Roy by Walter Scott
+[BOOK] The Heart of Midlothian by Walter Scott
+[BOOK] Kenilworth by Walter Scott
+[BOOK] The Bride of Lammermoor by Walter Scott
+[BOOK] Old Mortality by Walter Scott
+[BOOK] The Antiquary by Walter Scott
+[BOOK] Guy Mannering by Walter Scott
+[BOOK] Redgauntlet by Walter Scott
+[BOOK] The Talisman by Walter Scott
+[BOOK] Quentin Durward by Walter Scott
+[BOOK] The Fair Maid of Perth by Walter Scott
+[BOOK] The Legend of Sleepy Hollow by Washington Irving
+[BOOK] Rip Van Winkle by Washington Irving
+[BOOK] The Sketch Book by Washington Irving
+[BOOK] Tales of a Traveller by Washington Irving
+[BOOK] The Alhambra by Washington Irving
+[BOOK] A History of New York by Washington Irving
+[BOOK] Frankenstein by Mary Shelley
+[BOOK] The Last Man by Mary Shelley
+[BOOK] Valperga by Mary Shelley
+[BOOK] Jane Eyre by Charlotte Brontë
+[BOOK] Shirley by Charlotte Brontë
+[BOOK] Villette by Charlotte Brontë
+[BOOK] The Professor by Charlotte Brontë
+[BOOK] Wuthering Heights by Emily Brontë
+[BOOK] Agnes Grey by Anne Brontë
+[BOOK] The Tenant of Wildfell Hall by Anne Brontë
+[BOOK] Oliver Twist by Charles Dickens
+[BOOK] Nicholas Nickleby by Charles Dickens
+[BOOK] The Old Curiosity Shop by Charles Dickens
+[BOOK] Barnaby Rudge by Charles Dickens
+[BOOK] A Christmas Carol by Charles Dickens
+[BOOK] Martin Chuzzlewit by Charles Dickens
+[BOOK] Dombey and Son by Charles Dickens
+[BOOK] David Copperfield by Charles Dickens
+[BOOK] Bleak House by Charles Dickens
+[BOOK] Hard Times by Charles Dickens
+[BOOK] Little Dorrit by Charles Dickens
+[BOOK] A Tale of Two Cities by Charles Dickens
+[BOOK] Great Expectations by Charles Dickens
+[BOOK] Our Mutual Friend by Charles Dickens
+[BOOK] The Mystery of Edwin Drood by Charles Dickens
+[BOOK] The Pickwick Papers by Charles Dickens
+[BOOK] Vanity Fair by William Makepeace Thackeray
+[BOOK] The History of Henry Esmond by William Makepeace Thackeray
+[BOOK] The Newcomes by William Makepeace Thackeray
+[BOOK] The Virginians by William Makepeace Thackeray
+[BOOK] Pendennis by William Makepeace Thackeray
+[BOOK] Barry Lyndon by William Makepeace Thackeray
+[BOOK] Middlemarch by George Eliot
+[BOOK] The Mill on the Floss by George Eliot
+[BOOK] Silas Marner by George Eliot
+[BOOK] Adam Bede by George Eliot
+[BOOK] Romola by George Eliot
+[BOOK] Felix Holt by George Eliot
+[BOOK] Daniel Deronda by George Eliot
+[BOOK] Scenes of Clerical Life by George Eliot
+[BOOK] Tess of the d'Urbervilles by Thomas Hardy
+[BOOK] Jude the Obscure by Thomas Hardy
+[BOOK] Far from the Madding Crowd by Thomas Hardy
+[BOOK] The Mayor of Casterbridge by Thomas Hardy
+[BOOK] The Return of the Native by Thomas Hardy
+[BOOK] Under the Greenwood Tree by Thomas Hardy
+[BOOK] The Woodlanders by Thomas Hardy
+[BOOK] A Pair of Blue Eyes by Thomas Hardy
+[BOOK] Les Misérables by Victor Hugo
+[BOOK] The Hunchback of Notre-Dame by Victor Hugo
+[BOOK] Ninety-Three by Victor Hugo
+[BOOK] The Man Who Laughs by Victor Hugo
+[BOOK] Toilers of the Sea by Victor Hugo
+[BOOK] Père Goriot by Honoré de Balzac
+[BOOK] Eugénie Grandet by Honoré de Balzac
+[BOOK] Lost Illusions by Honoré de Balzac
+[BOOK] Cousin Bette by Honoré de Balzac
+[BOOK] The Wild Ass's Skin by Honoré de Balzac
+[BOOK] The Black Sheep by Honoré de Balzac
+[BOOK] Germinal by Émile Zola
+[BOOK] Nana by Émile Zola
+[BOOK] L'Assommoir by Émile Zola
+[BOOK] The Belly of Paris by Émile Zola
+[BOOK] The Ladies' Paradise by Émile Zola
+[BOOK] The Earth by Émile Zola
+[BOOK] The Adventures of Huckleberry Finn by Mark Twain
+[BOOK] The Adventures of Tom Sawyer by Mark Twain
+[BOOK] A Connecticut Yankee in King Arthur's Court by Mark Twain
+[BOOK] The Prince and the Pauper by Mark Twain
+[BOOK] Life on the Mississippi by Mark Twain
+[BOOK] Pudd'nhead Wilson by Mark Twain
+[BOOK] The Portrait of a Lady by Henry James
+[BOOK] The Turn of the Screw by Henry James
+[BOOK] The Wings of the Dove by Henry James
+[BOOK] The Golden Bowl by Henry James
+[BOOK] The Ambassadors by Henry James
+[BOOK] Washington Square by Henry James
+[BOOK] Daisy Miller by Henry James
+[BOOK] The Bostonians by Henry James
+[BOOK] Heart of Darkness by Joseph Conrad
+[BOOK] Lord Jim by Joseph Conrad
+[BOOK] Nostromo by Joseph Conrad
+[BOOK] The Secret Agent by Joseph Conrad
+[BOOK] Under Western Eyes by Joseph Conrad
+[BOOK] Victory by Joseph Conrad
+[BOOK] Typhoon by Joseph Conrad
+[BOOK] Ulysses by James Joyce
+[BOOK] A Portrait of the Artist as a Young Man by James Joyce
+[BOOK] Dubliners by James Joyce
+[BOOK] Finnegans Wake by James Joyce
+[BOOK] Mrs Dalloway by Virginia Woolf
+[BOOK] To the Lighthouse by Virginia Woolf
+[BOOK] Orlando by Virginia Woolf
+[BOOK] The Waves by Virginia Woolf
+[BOOK] Between the Acts by Virginia Woolf
+[BOOK] Jacob's Room by Virginia Woolf
+[BOOK] The Years by Virginia Woolf
+[BOOK] Night and Day by Virginia Woolf
+[BOOK] Sons and Lovers by D.H. Lawrence
+[BOOK] Women in Love by D.H. Lawrence
+[BOOK] The Rainbow by D.H. Lawrence
+[BOOK] Lady Chatterley's Lover by D.H. Lawrence
+[BOOK] The Plumed Serpent by D.H. Lawrence
+[BOOK] A Passage to India by E.M. Forster
+[BOOK] Howards End by E.M. Forster
+[BOOK] A Room with a View by E.M. Forster
+[BOOK] Where Angels Fear to Tread by E.M. Forster
+[BOOK] The Longest Journey by E.M. Forster
+[BOOK] The Magic Mountain by Thomas Mann
+[BOOK] Buddenbrooks by Thomas Mann
+[BOOK] Death in Venice by Thomas Mann
+[BOOK] Doctor Faustus by Thomas Mann
+[BOOK] Joseph and His Brothers by Thomas Mann
+[BOOK] The Metamorphosis by Franz Kafka
+[BOOK] The Trial by Franz Kafka
+[BOOK] The Castle by Franz Kafka
+[BOOK] Amerika by Franz Kafka
+[BOOK] In the Penal Colony by Franz Kafka
+[BOOK] In Search of Lost Time by Marcel Proust
+[BOOK] The Stranger by Albert Camus
+[BOOK] The Plague by Albert Camus
+[BOOK] The Fall by Albert Camus
+[BOOK] The Myth of Sisyphus by Albert Camus
+[BOOK] Nausea by Jean-Paul Sartre
+[BOOK] No Exit by Jean-Paul Sartre
+[BOOK] The Age of Reason by Jean-Paul Sartre
+[BOOK] The Reprieve by Jean-Paul Sartre
+[BOOK] The Old Man and the Sea by Ernest Hemingway
+[BOOK] A Farewell to Arms by Ernest Hemingway
+[BOOK] For Whom the Bell Tolls by Ernest Hemingway
+[BOOK] The Sun Also Rises by Ernest Hemingway
+[BOOK] A Moveable Feast by Ernest Hemingway
+[BOOK] The Great Gatsby by F. Scott Fitzgerald
+[BOOK] Tender Is the Night by F. Scott Fitzgerald
+[BOOK] This Side of Paradise by F. Scott Fitzgerald
+[BOOK] The Beautiful and Damned by F. Scott Fitzgerald
+[BOOK] The Sound and the Fury by William Faulkner
+[BOOK] As I Lay Dying by William Faulkner
+[BOOK] Absalom Absalom by William Faulkner
+[BOOK] Light in August by William Faulkner
+[BOOK] The Wild Palms by William Faulkner
+[BOOK] The Grapes of Wrath by John Steinbeck
+[BOOK] Of Mice and Men by John Steinbeck
+[BOOK] East of Eden by John Steinbeck
+[BOOK] Cannery Row by John Steinbeck
+[BOOK] The Pearl by John Steinbeck
+[BOOK] Tortilla Flat by John Steinbeck
+[BOOK] Moby-Dick by Herman Melville
+[BOOK] Bartleby the Scrivener by Herman Melville
+[BOOK] Billy Budd by Herman Melville
+[BOOK] Typee by Herman Melville
+[BOOK] Omoo by Herman Melville
+[BOOK] Pierre by Herman Melville
+[BOOK] The Scarlet Letter by Nathaniel Hawthorne
+[BOOK] The House of the Seven Gables by Nathaniel Hawthorne
+[BOOK] The Blithedale Romance by Nathaniel Hawthorne
+[BOOK] The Marble Faun by Nathaniel Hawthorne
+[BOOK] The Fall of the House of Usher by Edgar Allan Poe
+[BOOK] The Tell-Tale Heart by Edgar Allan Poe
+[BOOK] The Raven by Edgar Allan Poe
+[BOOK] The Murders in the Rue Morgue by Edgar Allan Poe
+[BOOK] The Pit and the Pendulum by Edgar Allan Poe
+[BOOK] The Picture of Dorian Gray by Oscar Wilde
+[BOOK] The Importance of Being Earnest by Oscar Wilde
+[BOOK] An Ideal Husband by Oscar Wilde
+[BOOK] Lady Windermere's Fan by Oscar Wilde
+[BOOK] Treasure Island by Robert Louis Stevenson
+[BOOK] Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+[BOOK] Kidnapped by Robert Louis Stevenson
+[BOOK] The Master of Ballantrae by Robert Louis Stevenson
+[BOOK] Dracula by Bram Stoker
+[BOOK] The Jewel of Seven Stars by Bram Stoker
+[BOOK] The Lair of the White Worm by Bram Stoker
+[BOOK] The Time Machine by H.G. Wells
+[BOOK] The War of the Worlds by H.G. Wells
+[BOOK] The Invisible Man by H.G. Wells
+[BOOK] The Island of Doctor Moreau by H.G. Wells
+[BOOK] Twenty Thousand Leagues Under the Sea by Jules Verne
+[BOOK] Around the World in Eighty Days by Jules Verne
+[BOOK] Journey to the Center of the Earth by Jules Verne
+[BOOK] The Mysterious Island by Jules Verne
+[BOOK] The Count of Monte Cristo by Alexandre Dumas
+[BOOK] The Three Musketeers by Alexandre Dumas
+[BOOK] Twenty Years After by Alexandre Dumas
+[BOOK] The Man in the Iron Mask by Alexandre Dumas
+[BOOK] Madame Bovary by Gustave Flaubert
+[BOOK] Sentimental Education by Gustave Flaubert
+[BOOK] Salammbô by Gustave Flaubert
+[BOOK] Bouvard and Pécuchet by Gustave Flaubert
+[BOOK] The Red and the Black by Stendhal
+[BOOK] The Charterhouse of Parma by Stendhal
+[BOOK] Fathers and Sons by Ivan Turgenev
+[BOOK] A Sportsman's Sketches by Ivan Turgenev
+[BOOK] On the Eve by Ivan Turgenev
+[BOOK] Rudin by Ivan Turgenev
+[BOOK] The Cherry Orchard by Anton Chekhov
+[BOOK] Uncle Vanya by Anton Chekhov
+[BOOK] Three Sisters by Anton Chekhov
+[BOOK] The Seagull by Anton Chekhov
+[BOOK] The Lady with the Dog by Anton Chekhov
+[BOOK] Dead Souls by Nikolai Gogol
+[BOOK] The Overcoat by Nikolai Gogol
+[BOOK] The Nose by Nikolai Gogol
+[BOOK] Taras Bulba by Nikolai Gogol
+[BOOK] The Master and Margarita by Mikhail Bulgakov
+[BOOK] The White Guard by Mikhail Bulgakov
+[BOOK] Heart of a Dog by Mikhail Bulgakov
+[BOOK] Doctor Zhivago by Boris Pasternak
+[BOOK] One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+[BOOK] The Gulag Archipelago by Aleksandr Solzhenitsyn
+[BOOK] Cancer Ward by Aleksandr Solzhenitsyn
+[BOOK] War and Peace by Leo Tolstoy
+[BOOK] Anna Karenina by Leo Tolstoy
+[BOOK] The Death of Ivan Ilyich by Leo Tolstoy
+[BOOK] Resurrection by Leo Tolstoy
+[BOOK] The Kreutzer Sonata by Leo Tolstoy
+[BOOK] Hadji Murad by Leo Tolstoy
+[BOOK] Family Happiness by Leo Tolstoy
+[BOOK] The Cossacks by Leo Tolstoy
+[BOOK] Crime and Punishment by Fyodor Dostoevsky
+[BOOK] The Brothers Karamazov by Fyodor Dostoevsky
+[BOOK] The Idiot by Fyodor Dostoevsky
+[BOOK] Demons by Fyodor Dostoevsky
+[BOOK] Notes from Underground by Fyodor Dostoevsky
+[BOOK] The Gambler by Fyodor Dostoevsky
+[BOOK] The House of the Dead by Fyodor Dostoevsky
+[BOOK] Poor Folk by Fyodor Dostoevsky
+[BOOK] White Nights by Fyodor Dostoevsky
+[BOOK] Netochka Nezvanova by Fyodor Dostoevsky
+[BOOK] Eugene Onegin by Alexander Pushkin
+[BOOK] The Captain's Daughter by Alexander Pushkin
+[BOOK] The Queen of Spades by Alexander Pushkin
+[BOOK] A Hero of Our Time by Mikhail Lermontov
+[BOOK] Leaves of Grass by Walt Whitman
+[BOOK] Complete Poems by Emily Dickinson
+[BOOK] Nature by Ralph Waldo Emerson
+[BOOK] Self-Reliance by Ralph Waldo Emerson
+[BOOK] Walden by Henry David Thoreau
+[BOOK] Civil Disobedience by Henry David Thoreau
+[BOOK] Little Women by Louisa May Alcott
+[BOOK] Little Men by Louisa May Alcott
+[BOOK] Jo's Boys by Louisa May Alcott
+[BOOK] Alice's Adventures in Wonderland by Lewis Carroll
+[BOOK] Through the Looking-Glass by Lewis Carroll
+[BOOK] The Jungle Book by Rudyard Kipling
+[BOOK] Kim by Rudyard Kipling
+[BOOK] Just So Stories by Rudyard Kipling
+[BOOK] The Man Who Would Be King by Rudyard Kipling
+[BOOK] The Call of the Wild by Jack London
+[BOOK] White Fang by Jack London
+[BOOK] The Sea-Wolf by Jack London
+[BOOK] Martin Eden by Jack London
+[BOOK] The Age of Innocence by Edith Wharton
+[BOOK] The House of Mirth by Edith Wharton
+[BOOK] Ethan Frome by Edith Wharton
+[BOOK] The Custom of the Country by Edith Wharton
+[BOOK] My Ántonia by Willa Cather
+[BOOK] O Pioneers! by Willa Cather
+[BOOK] Death Comes for the Archbishop by Willa Cather
+[BOOK] The Song of the Lark by Willa Cather
+[BOOK] Sister Carrie by Theodore Dreiser
+[BOOK] An American Tragedy by Theodore Dreiser
+[BOOK] Jennie Gerhardt by Theodore Dreiser
+[BOOK] Main Street by Sinclair Lewis
+[BOOK] Babbitt by Sinclair Lewis
+[BOOK] Arrowsmith by Sinclair Lewis
+[BOOK] Elmer Gantry by Sinclair Lewis
+[BOOK] The Jungle by Upton Sinclair
+[BOOK] Oil! by Upton Sinclair
+[BOOK] Boston by Upton Sinclair
+[BOOK] Brave New World by Aldous Huxley
+[BOOK] Point Counter Point by Aldous Huxley
+[BOOK] Eyeless in Gaza by Aldous Huxley
+[BOOK] Nineteen Eighty-Four by George Orwell
+[BOOK] Animal Farm by George Orwell
+[BOOK] Homage to Catalonia by George Orwell
+[BOOK] Down and Out in Paris and London by George Orwell
+[BOOK] Brideshead Revisited by Evelyn Waugh
+[BOOK] A Handful of Dust by Evelyn Waugh
+[BOOK] Decline and Fall by Evelyn Waugh
+[BOOK] Scoop by Evelyn Waugh
+[BOOK] The Power and the Glory by Graham Greene
+[BOOK] The Heart of the Matter by Graham Greene
+[BOOK] The End of the Affair by Graham Greene
+[BOOK] Brighton Rock by Graham Greene
+[BOOK] Of Human Bondage by Somerset Maugham
+[BOOK] The Moon and Sixpence by Somerset Maugham
+[BOOK] The Razor's Edge by Somerset Maugham
+[BOOK] Murder on the Orient Express by Agatha Christie
+[BOOK] And Then There Were None by Agatha Christie
+[BOOK] The Murder of Roger Ackroyd by Agatha Christie
+[BOOK] The Hound of the Baskervilles by Arthur Conan Doyle
+[BOOK] A Study in Scarlet by Arthur Conan Doyle
+[BOOK] The Sign of Four by Arthur Conan Doyle
+[BOOK] The Woman in White by Wilkie Collins
+[BOOK] The Moonstone by Wilkie Collins
+[BOOK] Discourse on Method by René Descartes
+[BOOK] Meditations on First Philosophy by René Descartes
+[BOOK] Ethics by Baruch Spinoza
+[BOOK] An Essay Concerning Human Understanding by John Locke
+[BOOK] Two Treatises of Government by John Locke
+[BOOK] A Treatise of Human Nature by David Hume
+[BOOK] An Enquiry Concerning Human Understanding by David Hume
+[BOOK] Critique of Pure Reason by Immanuel Kant
+[BOOK] Critique of Practical Reason by Immanuel Kant
+[BOOK] Groundwork of the Metaphysics of Morals by Immanuel Kant
+[BOOK] Phenomenology of Spirit by Georg Wilhelm Friedrich Hegel
+[BOOK] Science of Logic by Georg Wilhelm Friedrich Hegel
+[BOOK] The World as Will and Representation by Arthur Schopenhauer
+[BOOK] Fear and Trembling by Søren Kierkegaard
+[BOOK] Either/Or by Søren Kierkegaard
+[BOOK] The Sickness Unto Death by Søren Kierkegaard
+[BOOK] Thus Spoke Zarathustra by Friedrich Nietzsche
+[BOOK] Beyond Good and Evil by Friedrich Nietzsche
+[BOOK] On the Genealogy of Morals by Friedrich Nietzsche
+[BOOK] The Birth of Tragedy by Friedrich Nietzsche
+[BOOK] Das Kapital by Karl Marx
+[BOOK] The Communist Manifesto by Karl Marx
+[BOOK] On Liberty by John Stuart Mill
+[BOOK] Utilitarianism by John Stuart Mill
+[BOOK] The Principles of Psychology by William James
+[BOOK] Pragmatism by William James
+[BOOK] The Problems of Philosophy by Bertrand Russell
+[BOOK] A History of Western Philosophy by Bertrand Russell
+[BOOK] Tractatus Logico-Philosophicus by Ludwig Wittgenstein
+[BOOK] Philosophical Investigations by Ludwig Wittgenstein
+[BOOK] Being and Time by Martin Heidegger
+[BOOK] The Origins of Totalitarianism by Hannah Arendt
+[BOOK] The Human Condition by Hannah Arendt
+[BOOK] The Second Sex by Simone de Beauvoir
+[BOOK] The Mandarins by Simone de Beauvoir
+[BOOK] Summa Theologica by Thomas Aquinas
+[BOOK] The Narrow Road to the Deep North by Matsuo Bashō
+[BOOK] Shakuntala by Kālidāsa
+[BOOK] Shahnameh by Ferdowsi
+[BOOK] Rubaiyat by Omar Khayyam
+[BOOK] Masnavi by Rumi
+[BOOK] Divan by Hafez
+[BOOK] Gitanjali by Rabindranath Tagore
+[BOOK] The Home and the World by Rabindranath Tagore
+[BOOK] The True Story of Ah Q by Lu Xun
+[BOOK] Diary of a Madman by Lu Xun
+[BOOK] Kokoro by Natsume Sōseki
+[BOOK] Botchan by Natsume Sōseki
+[BOOK] The Temple of the Golden Pavilion by Yukio Mishima
+[BOOK] Confessions of a Mask by Yukio Mishima
+[BOOK] Snow Country by Yasunari Kawabata
+[BOOK] Thousand Cranes by Yasunari Kawabata
+[BOOK] Things Fall Apart by Chinua Achebe
+[BOOK] No Longer at Ease by Chinua Achebe
+[BOOK] Death and the King's Horseman by Wole Soyinka
+[BOOK] A Grain of Wheat by Ngũgĩ wa Thiong'o
+[BOOK] One Hundred Years of Solitude by Gabriel García Márquez
+[BOOK] Love in the Time of Cholera by Gabriel García Márquez
+[BOOK] Ficciones by Jorge Luis Borges
+[BOOK] The Aleph by Jorge Luis Borges
+[BOOK] Hopscotch by Julio Cortázar
+[BOOK] The Time of the Hero by Mario Vargas Llosa
+[BOOK] Conversation in the Cathedral by Mario Vargas Llosa
+[BOOK] The House of the Spirits by Isabel Allende
+[BOOK] The Labyrinth of Solitude by Octavio Paz
+[BOOK] Twenty Love Poems and a Song of Despair by Pablo Neruda
+[BOOK] Dom Casmurro by Machado de Assis
+[BOOK] The Posthumous Memoirs of Brás Cubas by Machado de Assis
+[BOOK] Hamlet by William Shakespeare
+[BOOK] Macbeth by William Shakespeare
+[BOOK] Othello by William Shakespeare
+[BOOK] King Lear by William Shakespeare
+[BOOK] Romeo and Juliet by William Shakespeare
+[BOOK] The Tempest by William Shakespeare
+[BOOK] A Midsummer Night's Dream by William Shakespeare
+[BOOK] Much Ado About Nothing by William Shakespeare
+[BOOK] As You Like It by William Shakespeare
+[BOOK] Twelfth Night by William Shakespeare
+[BOOK] The Merchant of Venice by William Shakespeare
+[BOOK] Julius Caesar by William Shakespeare
+[BOOK] Antony and Cleopatra by William Shakespeare
+[BOOK] Coriolanus by William Shakespeare
+[BOOK] Titus Andronicus by William Shakespeare
+[BOOK] Richard III by William Shakespeare
+[BOOK] Richard II by William Shakespeare
+[BOOK] Henry IV Part 1 by William Shakespeare
+[BOOK] Henry IV Part 2 by William Shakespeare
+[BOOK] Henry V by William Shakespeare
+[BOOK] Henry VI Part 1 by William Shakespeare
+[BOOK] Henry VI Part 2 by William Shakespeare
+[BOOK] Henry VI Part 3 by William Shakespeare
+[BOOK] Henry VIII by William Shakespeare
+[BOOK] The Winter's Tale by William Shakespeare
+[BOOK] Cymbeline by William Shakespeare
+[BOOK] Pericles by William Shakespeare
+[BOOK] The Two Gentlemen of Verona by William Shakespeare
+[BOOK] The Comedy of Errors by William Shakespeare
+[BOOK] The Taming of the Shrew by William Shakespeare
+[BOOK] Love's Labour's Lost by William Shakespeare
+[BOOK] All's Well That Ends Well by William Shakespeare
+[BOOK] Measure for Measure by William Shakespeare
+[BOOK] Troilus and Cressida by William Shakespeare
+[BOOK] Timon of Athens by William Shakespeare
+[BOOK] Phaedo by Plato
+[BOOK] Phaedrus by Plato
+[BOOK] Politics by Aristotle
+[BOOK] Rhetoric by Aristotle
+[BOOK] Jacques the Fatalist by Denis Diderot
+[BOOK] Rameau's Nephew by Denis Diderot
+[BOOK] Germany: A Winter's Tale by Heinrich Heine
+[BOOK] The Harz Journey by Heinrich Heine
+[BOOK] The Book of Snobs by William Makepeace Thackeray
+[BOOK] Catherine by William Makepeace Thackeray
+[BOOK] The Luck of Barry Lyndon by William Makepeace Thackeray
+[BOOK] The Rose and the Ring by William Makepeace Thackeray
+[BOOK] The Lifted Veil by George Eliot
+[BOOK] Brother Jacob by George Eliot
+[BOOK] Lodore by Mary Shelley
+[BOOK] Falkner by Mary Shelley
+[BOOK] Mathilda by Mary Shelley
+[BOOK] The Abbot by Walter Scott
+[BOOK] The Monastery by Walter Scott
+[BOOK] Peveril of the Peak by Walter Scott
+[BOOK] The Fortunes of Nigel by Walter Scott
+[BOOK] The Pirate by Walter Scott
+[BOOK] St. Ronan's Well by Walter Scott
+[BOOK] Woodstock by Walter Scott
+[BOOK] The Betrothed by Walter Scott
+[BOOK] The Highland Widow by Walter Scott
+[BOOK] The Surgeon's Daughter by Walter Scott
+[BOOK] Castle Dangerous by Walter Scott
+[BOOK] Count Robert of Paris by Walter Scott
+[BOOK] Tales of My Landlord by Walter Scott
+[BOOK] Chronicles of the Canongate by Walter Scott
+[BOOK] The Two Drovers by Walter Scott
+[BOOK] My Aunt Margaret's Mirror by Walter Scott
+[BOOK] The Tapestried Chamber by Walter Scott
+[BOOK] Death of the Laird's Jock by Walter Scott
+[BOOK] A Legend of Montrose by Walter Scott
+[BOOK] The Black Dwarf by Walter Scott
+[BOOK] Bracebridge Hall by Washington Irving
+[BOOK] The Crayon Miscellany by Washington Irving
+[BOOK] Astoria by Washington Irving
+[BOOK] The Adventures of Captain Bonneville by Washington Irving
+[BOOK] Life of George Washington by Washington Irving
+[BOOK] Mahomet and His Successors by Washington Irving
+[BOOK] The Life and Voyages of Christopher Columbus by Washington Irving
+[BOOK] A Chronicle of the Conquest of Granada by Washington Irving
+[BOOK] Voyages and Discoveries of the Companions of Columbus by Washington Irving
+[BOOK] Salmagundi by Washington Irving
+[BOOK] Letters of Jonathan Oldstyle by Washington Irving
+[BOOK] The Wild Huntsman by Washington Irving
+[BOOK] Dolph Heyliger by Washington Irving
+[BOOK] The Adventure of the German Student by Washington Irving
+[BOOK] The Devil and Tom Walker by Washington Irving
+[BOOK] Wolfert Webber by Washington Irving
+[BOOK] The Adventure of the Mysterious Picture by Washington Irving
+[BOOK] The Adventure of the Mysterious Stranger by Washington Irving
+[BOOK] The Story of the Young Italian by Washington Irving
+[BOOK] The Adventure of the Popkins Family by Washington Irving
+[BOOK] The Painter's Adventure by Washington Irving
+[BOOK] The Story of the Young Robber by Washington Irving
+[BOOK] The Story of the Nervous Gentleman by Washington Irving
+[BOOK] The Bold Dragoon by Washington Irving
+[BOOK] The Adventure of My Uncle by Washington Irving
+[BOOK] The Adventure of My Aunt by Washington Irving
+[BOOK] To Kill a Mockingbird by Harper Lee
+[BOOK] The Catcher in the Rye by J.D. Salinger
+[BOOK] The Lord of the Rings by J.R.R. Tolkien
+[BOOK] The Hobbit by J.R.R. Tolkien
+[BOOK] The Color Purple by Alice Walker
+[BOOK] Lolita by Vladimir Nabokov
+[BOOK] Pale Fire by Vladimir Nabokov
+[BOOK] Ada or Ardor by Vladimir Nabokov
+[BOOK] The Gift by Vladimir Nabokov
+[BOOK] Speak Memory by Vladimir Nabokov
+[BOOK] The Defense by Vladimir Nabokov
+[BOOK] Invitation to a Beheading by Vladimir Nabokov
+[BOOK] Bend Sinister by Vladimir Nabokov
+[BOOK] Pnin by Vladimir Nabokov
+[BOOK] The Real Life of Sebastian Knight by Vladimir Nabokov
+[BOOK] Look at the Harlequins! by Vladimir Nabokov
+[BOOK] Transparent Things by Vladimir Nabokov
+[BOOK] The Eye by Vladimir Nabokov
+[BOOK] Despair by Vladimir Nabokov
+[BOOK] Laughter in the Dark by Vladimir Nabokov
+[BOOK] Glory by Vladimir Nabokov
+[BOOK] King Queen Knave by Vladimir Nabokov
+[BOOK] Mary by Vladimir Nabokov
+[BOOK] The Enchanter by Vladimir Nabokov
