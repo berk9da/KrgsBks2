@@ -2,20 +2,21 @@ name: Daily Auto Shorts (5x/day)
 
 on:
   schedule:
-    - cron: "0 6 * * *"      # Post 1: 6:00 AM UTC (11:30 AM India)
-    - cron: "0 10 * * *"     # Post 2: 10:00 AM UTC (3:30 PM India)
-    - cron: "0 14 * * *"     # Post 3: 2:00 PM UTC (7:30 PM India)
-    - cron: "0 18 * * *"     # Post 4: 6:00 PM UTC (11:30 PM India)
-    - cron: "0 22 * * *"     # Post 5: 10:00 PM UTC (3:30 AM India)
+    # 5x/day: 6, 10, 14, 18, 22 UTC
+    - cron: "0 6,10,14,18,22 * * *"
   workflow_dispatch:
 
 jobs:
   generate-and-upload:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
     - name: Checkout repo
       uses: actions/checkout@v4
+      with:
+        persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -38,16 +39,22 @@ jobs:
       run: |
         pip install --upgrade pip
         pip install -r requirements.txt
+        pip install certifi
+        echo "SSL_CERT_FILE=$(python -m certifi)" >> $GITHUB_ENV
 
     - name: Check and generate topics if needed
+      env:
+        POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+        PYTHONHTTPSVERIFY: "0"
       run: |
         python generate_topics.py
 
-    - name: Generate daily short video (with retry logic)
+    - name: Generate daily short video
       env:
         POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+        PYTHONHTTPSVERIFY: "0"
       run: |
-        python run_with_retry.py
+        python main.py
 
     - name: Upload to all platforms
       env:
@@ -74,14 +81,61 @@ jobs:
         # Telegram (optional)
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        PYTHONHTTPSVERIFY: "0"
       run: |
+        echo "🔍 Checking which credentials are loaded..."
+        echo "YouTube: $([ -n "$YT_CLIENT_ID" ] && echo "✅ SET" || echo "❌ NOT SET")"
+        echo "Facebook: $([ -n "$FB_ACCESS_TOKEN" ] && echo "✅ SET" || echo "❌ NOT SET")"
+        echo "Instagram: $([ -n "$IG_ACCESS_TOKEN" ] && echo "✅ SET" || echo "❌ NOT SET")"
+        echo "Twitter: $([ -n "$TWITTER_API_KEY" ] && echo "✅ SET" || echo "❌ NOT SET")"
+        echo "Telegram: $([ -n "$TELEGRAM_BOT_TOKEN" ] && echo "✅ SET" || echo "❌ NOT SET")"
+        echo ""
+        echo "📤 Starting upload to all platforms..."
         python upload_all_platforms.py
 
-    - name: Commit state (used_topics + topic index) back to repo
+    - name: Commit and push topic changes
       run: |
-        git config user.name "auto-bot"
-        git config user.email "bot@users.noreply.github.com"
-        git add used_topics.txt current_topic_index.txt topics.txt
-        git diff --cached --quiet || git commit -m "auto: update topic tracking [skip ci]"
-        git push
+        echo "📊 Checking topic file changes..."
+        
+        echo "=== used_topics.txt content ==="
+        cat used_topics.txt || echo "File not found or empty"
+        
+        echo ""
+        echo "=== topics.txt (first 5 lines) ==="
+        head -n 5 topics.txt || echo "File not found or empty"
+        
+        echo ""
+        echo "=== Git status ==="
+        git status
+        
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        git add topics.txt used_topics.txt
+        
+        if git diff --staged --quiet; then
+          echo "⚠️ No changes to commit - topic files were not modified!"
+          exit 1
+        else
+          echo "✅ Changes detected, committing..."
+          git commit -m "Update topics after video generation [skip ci]"
+          
+          echo "📤 Pushing to repository..."
+          git push
+          
+          if [ $? -eq 0 ]; then
+            echo "✅ Successfully pushed topic updates to repository"
+          else
+            echo "❌ Failed to push changes"
+            exit 1
+          fi
+        fi
+
+    - name: Upload video artifact (backup)
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: final-video-${{ github.run_number }}
+        path: output/final_video.mp4
+        retention-days: 7
 
