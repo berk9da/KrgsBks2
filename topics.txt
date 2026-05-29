@@ -1,4 +1,3 @@
-[BOOK] Apology by Plato
 [BOOK] Nicomachean Ethics by Aristotle
 [BOOK] Poetics by Aristotle
 [BOOK] Meditations by Marcus Aurelius
