@@ -33,6 +33,13 @@ def main():
     
     # Read the selected topic for dynamic metadata
     topic_file = Path('output/topic.txt')
+    
+    # Also read story for full description
+    story_file = Path('output/story.txt')
+    story_text = ""
+    if story_file.exists():
+        story_text = story_file.read_text(encoding='utf-8').strip()
+    
     if topic_file.exists():
         topic = topic_file.read_text(encoding='utf-8').strip()
         clean_topic = topic.replace('[BOOK] ', '')
@@ -48,23 +55,11 @@ def main():
         # Create platform-specific content
         youtube_title = f"{book_title} by {author} - Book Summary #Shorts"[:100]
         
-        caption = f"""📚 {book_title} by {author}
-
-Discover this timeless literary masterpiece!
-
-A powerful summary of one of history's greatest books.
-
-#ClassicalLiterature #BookSummary #{book_title.replace(' ', '')} #{author.split()[-1] if author else 'Books'} #Literature #Books #Reading #Education"""
+        story_for_desc = f"\n\n{story_text}\n\n" if story_text else "\n\n"
         
-        youtube_description = f"""📚 {book_title} by {author}
-
-Discover the timeless wisdom of classical literature through this powerful summary and analysis.
-
-This video presents the key themes, plot points, and lasting impact of this literary masterpiece.
-
-Perfect for students, book lovers, and anyone who loves great storytelling!
-
-#Shorts #ClassicalLiterature #BookSummary #Literature #Books #Reading #Education #{book_title.replace(' ', '')} #{author.split()[-1] if author else 'ClassicBooks'}"""
+        caption = f"""📚 {book_title} by {author}{story_for_desc}#ClassicalLiterature #BookSummary #{book_title.replace(' ', '')} #{author.split()[-1] if author else 'Books'} #Literature #Books #Reading #Education"""
+        
+        youtube_description = f"""📚 {book_title} by {author}{story_for_desc}#Shorts #ClassicalLiterature #BookSummary #Literature #Books #Reading #Education #{book_title.replace(' ', '')} #{author.split()[-1] if author else 'ClassicBooks'}"""
         
     else:
         book_title = "Classic Literature"
@@ -216,4 +211,8 @@ Perfect for students, book lovers, and anyone who loves great storytelling!
     print("="*60)
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except Exception as e:
+        print(f"\n[upload] ❌ Upload pipeline error: {e}")
+        print("[upload] Continuing gracefully...")

@@ -30,7 +30,6 @@ HD_HEIGHT = 1920
 STORY_MAX_WORDS = 130
 
 TOPICS_FILE = "topics.txt"
-TOPICS_INDEX_FILE = "current_topic_index.txt"  # Tracks which topic to use next for multi-daily posts
 
 IMAGES_DIR = Path("images")
 OUTPUT_DIR = Path("output")
@@ -66,76 +65,65 @@ def ensure_dirs():
     print("[cleanup] ✅ All old files removed")
 
 def choose_topic_for_today():
-    """Select the NEXT UNUSED topic sequentially — ensures every run gets a fresh book."""
+    """Select the next unused topic by picking the first one and removing it from the file."""
     # Load topics
+    if not os.path.exists(TOPICS_FILE):
+        print(f"[topics] {TOPICS_FILE} not found! Generating fallback.")
+        return "[BOOK] The Odyssey by Homer - Epic Poetry"
+
     with open(TOPICS_FILE, "r", encoding="utf-8") as f:
         topics = [line.strip() for line in f if line.strip()]
-    
+
     if not topics:
-        print("[topics] No topics found! Generating fallback topic.")
-        return "[BOOK] The Odyssey by Homer - Epic Poetry"
-    
-    # Load used topic titles to avoid repeats
-    used_titles = set()
-    if Path("used_topics.txt").exists():
-        with open("used_topics.txt", "r", encoding="utf-8") as f:
-            for line in f:
-                if ": [BOOK] " in line:
-                    title = line.split(": [BOOK] ")[1].strip().lower()
-                    used_titles.add(title)
-    
-    # Find first unused topic
-    selected_topic = None
-    for topic in topics:
-        topic_lower = topic.lower()
-        # Normalize: remove [BOOK] prefix for comparison
-        if topic_lower.startswith("[book] "):
-            topic_lower = topic_lower[7:]
-        
-        # Check if already used
-        is_used = False
-        for used in used_titles:
-            # Compare by book title (before " by ")
-            topic_title = topic_lower.split(" by ")[0].strip()
-            used_title = used.split(" by ")[0].strip()
-            if topic_title == used_title:
-                is_used = True
-                break
-        
-        if not is_used:
-            selected_topic = topic
-            break
-    
-    # If all topics are used, generate new ones
-    if not selected_topic:
-        print("[topics] All topics have been used! Generating fresh batch...")
-        subprocess.run([sys.executable, "generate_topics.py"], check=True)
-        # Reload new topics
-        with open(TOPICS_FILE, "r", encoding="utf-8") as f:
-            topics = [line.strip() for line in f if line.strip()]
-        if topics:
-            selected_topic = topics[0]
-        else:
+        print("[topics] No topics found! Generating more...")
+        try:
+            subprocess.run([sys.executable, "generate_topics.py"], check=True)
+            with open(TOPICS_FILE, "r", encoding="utf-8") as f:
+                topics = [line.strip() for line in f if line.strip()]
+        except Exception as e:
+            print(f"[topics] Failed to generate: {e}")
+        if not topics:
             return "[BOOK] The Odyssey by Homer - Epic Poetry"
-    
+
+    # Check if running low, pre-emptively generate more
+    if len(topics) < 50:
+        print(f"[topics] ⚠️ Only {len(topics)} topics left. Generating more...")
+        try:
+            subprocess.run([sys.executable, "generate_topics.py"], check=True)
+            with open(TOPICS_FILE, "r", encoding="utf-8") as f:
+                topics = [line.strip() for line in f if line.strip()]
+        except Exception as e:
+            print(f"[topics] Generation failed: {e}")
+
+    # Pick first topic
+    selected_topic = topics[0]
+    remaining_topics = topics[1:]
+
     now = datetime.datetime.now()
-    
+
     # Save topic to output directory for upload scripts
     topic_output = OUTPUT_DIR / "topic.txt"
     with open(topic_output, "w", encoding="utf-8") as f:
         f.write(selected_topic)
-    
+
     # Log to used_topics.txt
     with open("used_topics.txt", "a", encoding="utf-8") as f:
         f.write(f"{now.strftime('%Y-%m-%d %H:%M')}: {selected_topic}\n")
-    
-    # Also increment a persistent index file for tracking
-    topic_index = topics.index(selected_topic) + 1
-    with open(TOPICS_INDEX_FILE, "w") as f:
-        f.write(str(topic_index))
-    
-    print(f"[topics] Selected topic #{topic_index}/{len(topics)}: {selected_topic}")
-    print(f"[topics] Topic saved to {topic_output}")
+
+    # Remove from topics.txt with verification
+    for attempt in range(3):
+        try:
+            with open(TOPICS_FILE, "w", encoding="utf-8") as f:
+                f.write("\n".join(remaining_topics) + "\n")
+                f.flush()
+            with open(TOPICS_FILE, "r", encoding="utf-8") as f:
+                verify = [line.strip() for line in f if line.strip()]
+            if len(verify) == len(remaining_topics):
+                break
+        except Exception as e:
+            print(f"[topics] Write error (attempt {attempt+1}): {e}")
+
+    print(f"[topics] ✅ Selected: '{selected_topic}' ({len(remaining_topics)} remaining)")
     return selected_topic
 
 def generate_story_with_pollinations(topic: str) -> str:
@@ -143,7 +131,7 @@ def generate_story_with_pollinations(topic: str) -> str:
     # Extract book info from topic
     clean_topic = topic.replace("[BOOK] ", "")
     
-    prompt = f"Write a powerful, gripping 100-word summary of {clean_topic}. Use vivid language, dramatic tension, and emotional weight. Make it feel like a movie trailer narration — immersive, intense, unforgettable. Include the core conflict, stakes, and why this book matters."
+    prompt = f"Write a powerful, gripping 100-word summary of {clean_topic}. START by clearly stating the book title and author's name in the very first sentence. Use vivid language, dramatic tension, and emotional weight. Make it feel like a movie trailer narration — immersive, intense, unforgettable. Include the core conflict, stakes, and why this book matters."
 
     print(f"[story] Generating book content for: {clean_topic} using PAID API...")
     

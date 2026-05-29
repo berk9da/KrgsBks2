@@ -114,8 +114,20 @@ def main():
     else:
         title = "Classic Literature Summary"
     
-    # Book-themed description
-    description = """Discover the timeless wisdom of classical literature.
+    # Book-themed description with story
+    story_file = Path('output/story.txt')
+    story_text = ""
+    if story_file.exists():
+        story_text = story_file.read_text(encoding='utf-8').strip()
+    
+    if story_text:
+        description = f"""{title}
+
+{story_text}
+
+#Shorts #ClassicalLiterature #BookSummary #Literature #Books #Reading"""
+    else:
+        description = """Discover the timeless wisdom of classical literature.
 
 This video presents a concise summary and analysis of one of history's greatest books.
 
