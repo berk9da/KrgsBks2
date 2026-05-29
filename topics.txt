@@ -1,4 +1,3 @@
-[BOOK] The Republic by Plato
 [BOOK] Symposium by Plato
 [BOOK] Apology by Plato
 [BOOK] Nicomachean Ethics by Aristotle
