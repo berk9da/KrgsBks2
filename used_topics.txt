@@ -8,3 +8,4 @@
 2026-05-29 11:11: [BOOK] The Republic by Plato
 2026-05-29 17:31: [BOOK] Symposium by Plato
 2026-05-29 20:14: [BOOK] Apology by Plato
+2026-05-29 23:09: [BOOK] Nicomachean Ethics by Aristotle
