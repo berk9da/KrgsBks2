@@ -13,3 +13,4 @@
 2026-05-30 11:17: [BOOK] Meditations by Marcus Aurelius
 2026-05-30 15:02: [BOOK] The Histories by Herodotus
 2026-05-30 19:06: [BOOK] The Peloponnesian War by Thucydides
+2026-05-30 22:54: [BOOK] Oedipus Rex by Sophocles

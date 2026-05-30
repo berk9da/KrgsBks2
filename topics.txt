@@ -1,4 +1,3 @@
-[BOOK] Oedipus Rex by Sophocles
 [BOOK] Antigone by Sophocles
 [BOOK] Electra by Sophocles
 [BOOK] Medea by Euripides
