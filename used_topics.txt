@@ -10,3 +10,4 @@
 2026-05-29 20:14: [BOOK] Apology by Plato
 2026-05-29 23:09: [BOOK] Nicomachean Ethics by Aristotle
 2026-05-30 08:23: [BOOK] Poetics by Aristotle
+2026-05-30 11:17: [BOOK] Meditations by Marcus Aurelius
