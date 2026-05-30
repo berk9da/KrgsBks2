@@ -1,4 +1,3 @@
-[BOOK] Poetics by Aristotle
 [BOOK] Meditations by Marcus Aurelius
 [BOOK] The Histories by Herodotus
 [BOOK] The Peloponnesian War by Thucydides
