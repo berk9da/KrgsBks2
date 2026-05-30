@@ -1,4 +1,3 @@
-[BOOK] The Histories by Herodotus
 [BOOK] The Peloponnesian War by Thucydides
 [BOOK] Oedipus Rex by Sophocles
 [BOOK] Antigone by Sophocles
