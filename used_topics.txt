@@ -17,3 +17,4 @@
 2026-05-31 08:39: [BOOK] Antigone by Sophocles
 2026-05-31 11:40: [BOOK] Electra by Sophocles
 2026-05-31 15:15: [BOOK] Medea by Euripides
+2026-05-31 19:09: [BOOK] The Bacchae by Euripides
