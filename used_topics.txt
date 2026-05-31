@@ -15,3 +15,4 @@
 2026-05-30 19:06: [BOOK] The Peloponnesian War by Thucydides
 2026-05-30 22:54: [BOOK] Oedipus Rex by Sophocles
 2026-05-31 08:39: [BOOK] Antigone by Sophocles
+2026-05-31 11:40: [BOOK] Electra by Sophocles
