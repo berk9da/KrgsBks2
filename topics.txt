@@ -1,4 +1,3 @@
-[BOOK] The Oresteia by Aeschylus
 [BOOK] Prometheus Bound by Aeschylus
 [BOOK] The Frogs by Aristophanes
 [BOOK] The Clouds by Aristophanes

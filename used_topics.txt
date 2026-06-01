@@ -19,3 +19,4 @@
 2026-05-31 15:15: [BOOK] Medea by Euripides
 2026-05-31 19:09: [BOOK] The Bacchae by Euripides
 2026-05-31 22:57: [BOOK] Hippolytus by Euripides
+2026-06-01 11:23: [BOOK] The Oresteia by Aeschylus
