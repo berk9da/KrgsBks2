@@ -1,4 +1,3 @@
-[BOOK] The Frogs by Aristophanes
 [BOOK] The Clouds by Aristophanes
 [BOOK] Lysistrata by Aristophanes
 [BOOK] Confessions by Augustine
