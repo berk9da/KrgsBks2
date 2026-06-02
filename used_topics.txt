@@ -23,3 +23,4 @@
 2026-06-01 19:18: [BOOK] Prometheus Bound by Aeschylus
 2026-06-01 23:24: [BOOK] The Frogs by Aristophanes
 2026-06-02 10:14: [BOOK] The Clouds by Aristophanes
+2026-06-02 18:03: [BOOK] Lysistrata by Aristophanes
