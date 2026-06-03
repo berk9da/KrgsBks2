@@ -26,3 +26,4 @@
 2026-06-02 18:03: [BOOK] Lysistrata by Aristophanes
 2026-06-02 23:43: [BOOK] Confessions by Augustine
 2026-06-03 10:51: [BOOK] The City of God by Augustine
+2026-06-03 18:21: [BOOK] The Golden Ass by Apuleius

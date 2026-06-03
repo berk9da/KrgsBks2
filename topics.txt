@@ -1,4 +1,3 @@
-[BOOK] The Golden Ass by Apuleius
 [BOOK] The Analects by Confucius
 [BOOK] Tao Te Ching by Laozi
 [BOOK] The Art of War by Sun Tzu
