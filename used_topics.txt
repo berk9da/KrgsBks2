@@ -29,3 +29,4 @@
 2026-06-03 18:21: [BOOK] The Golden Ass by Apuleius
 2026-06-03 23:29: [BOOK] The Analects by Confucius
 2026-06-04 09:50: [BOOK] Tao Te Ching by Laozi
+2026-06-04 12:42: [BOOK] The Art of War by Sun Tzu
