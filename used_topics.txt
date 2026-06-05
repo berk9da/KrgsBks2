@@ -36,3 +36,4 @@
 2026-06-05 09:38: [BOOK] One Thousand and One Nights by Anonymous
 2026-06-05 12:33: [BOOK] The Tale of Genji by Murasaki Shikibu
 2026-06-05 16:28: [BOOK] The Pillow Book by Sei Shonagon
+2026-06-05 19:48: [BOOK] The Divine Comedy by Dante Alighieri
