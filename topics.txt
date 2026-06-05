@@ -1,4 +1,3 @@
-[BOOK] The Pillow Book by Sei Shonagon
 [BOOK] The Divine Comedy by Dante Alighieri
 [BOOK] The Decameron by Giovanni Boccaccio
 [BOOK] The Canterbury Tales by Geoffrey Chaucer
