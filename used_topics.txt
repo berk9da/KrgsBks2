@@ -33,3 +33,4 @@
 2026-06-04 16:51: [BOOK] The Epic of Gilgamesh by Anonymous
 2026-06-04 19:59: [BOOK] Beowulf by Anonymous
 2026-06-04 23:05: [BOOK] The Song of Roland by Anonymous
+2026-06-05 09:38: [BOOK] One Thousand and One Nights by Anonymous
