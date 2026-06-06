@@ -38,3 +38,4 @@
 2026-06-05 16:28: [BOOK] The Pillow Book by Sei Shonagon
 2026-06-05 19:48: [BOOK] The Divine Comedy by Dante Alighieri
 2026-06-05 23:03: [BOOK] The Decameron by Giovanni Boccaccio
+2026-06-06 08:28: [BOOK] The Canterbury Tales by Geoffrey Chaucer

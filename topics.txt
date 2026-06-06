@@ -1,4 +1,3 @@
-[BOOK] The Canterbury Tales by Geoffrey Chaucer
 [BOOK] Le Morte d'Arthur by Thomas Malory
 [BOOK] The Prince by Niccolò Machiavelli
 [BOOK] Utopia by Thomas More
