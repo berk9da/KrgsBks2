@@ -46,3 +46,4 @@
 2026-06-07 08:50: [BOOK] Essays by Michel de Montaigne
 2026-06-07 11:45: [BOOK] Don Quixote by Miguel de Cervantes
 2026-06-07 15:21: [BOOK] The Faerie Queene by Edmund Spenser
+2026-06-07 19:14: [BOOK] Paradise Lost by John Milton
