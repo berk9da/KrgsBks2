@@ -45,3 +45,4 @@
 2026-06-06 22:58: [BOOK] The Praise of Folly by Erasmus
 2026-06-07 08:50: [BOOK] Essays by Michel de Montaigne
 2026-06-07 11:45: [BOOK] Don Quixote by Miguel de Cervantes
+2026-06-07 15:21: [BOOK] The Faerie Queene by Edmund Spenser
