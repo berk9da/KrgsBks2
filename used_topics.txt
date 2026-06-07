@@ -43,3 +43,4 @@
 2026-06-06 15:10: [BOOK] The Prince by Niccolò Machiavelli
 2026-06-06 19:14: [BOOK] Utopia by Thomas More
 2026-06-06 22:58: [BOOK] The Praise of Folly by Erasmus
+2026-06-07 08:50: [BOOK] Essays by Michel de Montaigne
