@@ -51,3 +51,4 @@
 2026-06-08 10:28: [BOOK] Samson Agonistes by John Milton
 2026-06-08 17:20: [BOOK] The Pilgrim's Progress by John Bunyan
 2026-06-08 20:08: [BOOK] Pensées by Blaise Pascal
+2026-06-08 23:10: [BOOK] Fables by Jean de La Fontaine

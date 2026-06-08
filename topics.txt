@@ -1,4 +1,3 @@
-[BOOK] Fables by Jean de La Fontaine
 [BOOK] The Misanthrope by Molière
 [BOOK] Tartuffe by Molière
 [BOOK] Phèdre by Jean Racine
