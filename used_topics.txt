@@ -49,3 +49,4 @@
 2026-06-07 19:14: [BOOK] Paradise Lost by John Milton
 2026-06-07 23:00: [BOOK] Paradise Regained by John Milton
 2026-06-08 10:28: [BOOK] Samson Agonistes by John Milton
+2026-06-08 17:20: [BOOK] The Pilgrim's Progress by John Bunyan
