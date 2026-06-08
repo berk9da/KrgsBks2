@@ -48,3 +48,4 @@
 2026-06-07 15:21: [BOOK] The Faerie Queene by Edmund Spenser
 2026-06-07 19:14: [BOOK] Paradise Lost by John Milton
 2026-06-07 23:00: [BOOK] Paradise Regained by John Milton
+2026-06-08 10:28: [BOOK] Samson Agonistes by John Milton
