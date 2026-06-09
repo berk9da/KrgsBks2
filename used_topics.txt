@@ -55,3 +55,4 @@
 2026-06-09 09:33: [BOOK] The Misanthrope by Molière
 2026-06-09 12:33: [BOOK] Tartuffe by Molière
 2026-06-09 16:29: [BOOK] Phèdre by Jean Racine
+2026-06-09 20:03: [BOOK] Andromaque by Jean Racine

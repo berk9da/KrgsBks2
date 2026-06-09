@@ -1,4 +1,3 @@
-[BOOK] Andromaque by Jean Racine
 [BOOK] The Way of the World by William Congreve
 [BOOK] Gulliver's Travels by Jonathan Swift
 [BOOK] A Modest Proposal by Jonathan Swift
