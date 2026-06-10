@@ -61,3 +61,4 @@
 2026-06-10 12:52: [BOOK] A Modest Proposal by Jonathan Swift
 2026-06-10 16:56: [BOOK] A Tale of a Tub by Jonathan Swift
 2026-06-10 20:24: [BOOK] Robinson Crusoe by Daniel Defoe
+2026-06-10 23:23: [BOOK] Moll Flanders by Daniel Defoe
