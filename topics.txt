@@ -1,4 +1,3 @@
-[BOOK] A Tale of a Tub by Jonathan Swift
 [BOOK] Robinson Crusoe by Daniel Defoe
 [BOOK] Moll Flanders by Daniel Defoe
 [BOOK] A Journal of the Plague Year by Daniel Defoe
