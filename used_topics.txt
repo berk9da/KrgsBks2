@@ -57,3 +57,4 @@
 2026-06-09 16:29: [BOOK] Phèdre by Jean Racine
 2026-06-09 20:03: [BOOK] Andromaque by Jean Racine
 2026-06-09 23:16: [BOOK] The Way of the World by William Congreve
+2026-06-10 09:49: [BOOK] Gulliver's Travels by Jonathan Swift
