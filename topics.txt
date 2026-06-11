@@ -1,4 +1,3 @@
-[BOOK] Micromégas by Voltaire
 [BOOK] The Social Contract by Jean-Jacques Rousseau
 [BOOK] Emile by Jean-Jacques Rousseau
 [BOOK] Tom Jones by Henry Fielding

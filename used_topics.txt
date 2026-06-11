@@ -65,3 +65,4 @@
 2026-06-11 10:15: [BOOK] A Journal of the Plague Year by Daniel Defoe
 2026-06-11 17:35: [BOOK] Candide by Voltaire
 2026-06-11 20:14: [BOOK] Zadig by Voltaire
+2026-06-11 23:18: [BOOK] Micromégas by Voltaire
