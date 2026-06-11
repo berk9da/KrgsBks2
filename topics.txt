@@ -1,4 +1,3 @@
-[BOOK] A Journal of the Plague Year by Daniel Defoe
 [BOOK] Candide by Voltaire
 [BOOK] Zadig by Voltaire
 [BOOK] Micromégas by Voltaire
