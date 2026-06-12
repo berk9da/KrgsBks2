@@ -1,4 +1,3 @@
-[BOOK] Emile by Jean-Jacques Rousseau
 [BOOK] Tom Jones by Henry Fielding
 [BOOK] Joseph Andrews by Henry Fielding
 [BOOK] Clarissa by Samuel Richardson
