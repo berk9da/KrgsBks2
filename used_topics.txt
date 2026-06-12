@@ -66,3 +66,4 @@
 2026-06-11 17:35: [BOOK] Candide by Voltaire
 2026-06-11 20:14: [BOOK] Zadig by Voltaire
 2026-06-11 23:18: [BOOK] Micromégas by Voltaire
+2026-06-12 10:03: [BOOK] The Social Contract by Jean-Jacques Rousseau
