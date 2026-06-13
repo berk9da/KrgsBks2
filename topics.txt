@@ -1,4 +1,3 @@
-[BOOK] The Vicar of Wakefield by Oliver Goldsmith
 [BOOK] The Castle of Otranto by Horace Walpole
 [BOOK] The Mysteries of Udolpho by Ann Radcliffe
 [BOOK] The Monk by Matthew Lewis
