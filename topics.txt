@@ -1,4 +1,3 @@
-[BOOK] Clarissa by Samuel Richardson
 [BOOK] Pamela by Samuel Richardson
 [BOOK] Tristram Shandy by Laurence Sterne
 [BOOK] A Sentimental Journey by Laurence Sterne
