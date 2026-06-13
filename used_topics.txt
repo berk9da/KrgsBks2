@@ -73,3 +73,4 @@
 2026-06-13 08:52: [BOOK] Clarissa by Samuel Richardson
 2026-06-13 11:52: [BOOK] Pamela by Samuel Richardson
 2026-06-13 15:30: [BOOK] Tristram Shandy by Laurence Sterne
+2026-06-13 19:18: [BOOK] A Sentimental Journey by Laurence Sterne
