@@ -1,4 +1,3 @@
-[BOOK] Pamela by Samuel Richardson
 [BOOK] Tristram Shandy by Laurence Sterne
 [BOOK] A Sentimental Journey by Laurence Sterne
 [BOOK] The Vicar of Wakefield by Oliver Goldsmith
