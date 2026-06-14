@@ -78,3 +78,4 @@
 2026-06-14 09:26: [BOOK] The Castle of Otranto by Horace Walpole
 2026-06-14 15:46: [BOOK] The Mysteries of Udolpho by Ann Radcliffe
 2026-06-14 19:18: [BOOK] The Monk by Matthew Lewis
+2026-06-14 23:04: [BOOK] Northanger Abbey by Jane Austen
