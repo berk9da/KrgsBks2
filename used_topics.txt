@@ -76,3 +76,4 @@
 2026-06-13 19:18: [BOOK] A Sentimental Journey by Laurence Sterne
 2026-06-13 23:00: [BOOK] The Vicar of Wakefield by Oliver Goldsmith
 2026-06-14 09:26: [BOOK] The Castle of Otranto by Horace Walpole
+2026-06-14 15:46: [BOOK] The Mysteries of Udolpho by Ann Radcliffe
