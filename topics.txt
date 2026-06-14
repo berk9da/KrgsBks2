@@ -1,4 +1,3 @@
-[BOOK] The Monk by Matthew Lewis
 [BOOK] Northanger Abbey by Jane Austen
 [BOOK] Sense and Sensibility by Jane Austen
 [BOOK] Pride and Prejudice by Jane Austen
