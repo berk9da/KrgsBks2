@@ -79,3 +79,4 @@
 2026-06-14 15:46: [BOOK] The Mysteries of Udolpho by Ann Radcliffe
 2026-06-14 19:18: [BOOK] The Monk by Matthew Lewis
 2026-06-14 23:04: [BOOK] Northanger Abbey by Jane Austen
+2026-06-15 11:55: [BOOK] Sense and Sensibility by Jane Austen
