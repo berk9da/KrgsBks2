@@ -1,4 +1,3 @@
-[BOOK] Mansfield Park by Jane Austen
 [BOOK] Emma by Jane Austen
 [BOOK] Persuasion by Jane Austen
 [BOOK] Lady Susan by Jane Austen
