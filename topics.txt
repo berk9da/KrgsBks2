@@ -1,4 +1,3 @@
-[BOOK] Persuasion by Jane Austen
 [BOOK] Lady Susan by Jane Austen
 [BOOK] The Sorrows of Young Werther by Goethe
 [BOOK] Faust Part One by Goethe
