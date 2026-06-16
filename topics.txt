@@ -1,4 +1,3 @@
-[BOOK] Emma by Jane Austen
 [BOOK] Persuasion by Jane Austen
 [BOOK] Lady Susan by Jane Austen
 [BOOK] The Sorrows of Young Werther by Goethe
