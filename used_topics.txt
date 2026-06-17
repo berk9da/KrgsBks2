@@ -86,3 +86,4 @@
 2026-06-16 18:26: [BOOK] Persuasion by Jane Austen
 2026-06-16 23:20: [BOOK] Lady Susan by Jane Austen
 2026-06-17 10:46: [BOOK] The Sorrows of Young Werther by Goethe
+2026-06-17 16:53: [BOOK] Faust Part One by Goethe
