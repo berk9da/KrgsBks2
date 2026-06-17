@@ -1,4 +1,3 @@
-[BOOK] Wilhelm Meister's Apprenticeship by Goethe
 [BOOK] The Robbers by Friedrich Schiller
 [BOOK] William Tell by Friedrich Schiller
 [BOOK] Mary Stuart by Friedrich Schiller
