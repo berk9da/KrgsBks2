@@ -89,3 +89,4 @@
 2026-06-17 16:53: [BOOK] Faust Part One by Goethe
 2026-06-17 20:07: [BOOK] Faust Part Two by Goethe
 2026-06-17 23:20: [BOOK] Wilhelm Meister's Apprenticeship by Goethe
+2026-06-18 10:15: [BOOK] The Robbers by Friedrich Schiller
