@@ -93,3 +93,4 @@
 2026-06-18 17:34: [BOOK] William Tell by Friedrich Schiller
 2026-06-18 20:35: [BOOK] Mary Stuart by Friedrich Schiller
 2026-06-18 23:41: [BOOK] Nathan the Wise by Gotthold Ephraim Lessing
+2026-06-19 10:19: [BOOK] The Marriage of Figaro by Beaumarchais
