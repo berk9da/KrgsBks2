@@ -1,4 +1,3 @@
-[BOOK] The Deerslayer by James Fenimore Cooper
 [BOOK] The Pathfinder by James Fenimore Cooper
 [BOOK] The Prairie by James Fenimore Cooper
 [BOOK] Waverley by Walter Scott
