@@ -1,4 +1,3 @@
-[BOOK] Waverley by Walter Scott
 [BOOK] Ivanhoe by Walter Scott
 [BOOK] Rob Roy by Walter Scott
 [BOOK] The Heart of Midlothian by Walter Scott
