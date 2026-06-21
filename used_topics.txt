@@ -105,3 +105,4 @@
 2026-06-21 09:42: [BOOK] Ivanhoe by Walter Scott
 2026-06-21 12:08: [BOOK] Rob Roy by Walter Scott
 2026-06-21 15:48: [BOOK] The Heart of Midlothian by Walter Scott
+2026-06-21 19:23: [BOOK] Kenilworth by Walter Scott
