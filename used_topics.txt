@@ -103,3 +103,4 @@
 2026-06-20 19:18: [BOOK] The Prairie by James Fenimore Cooper
 2026-06-20 23:03: [BOOK] Waverley by Walter Scott
 2026-06-21 09:42: [BOOK] Ivanhoe by Walter Scott
+2026-06-21 12:08: [BOOK] Rob Roy by Walter Scott
