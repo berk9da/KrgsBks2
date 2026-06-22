@@ -1,4 +1,3 @@
-[BOOK] The Antiquary by Walter Scott
 [BOOK] Guy Mannering by Walter Scott
 [BOOK] Redgauntlet by Walter Scott
 [BOOK] The Talisman by Walter Scott
