@@ -109,3 +109,4 @@
 2026-06-21 23:07: [BOOK] The Bride of Lammermoor by Walter Scott
 2026-06-22 11:44: [BOOK] Old Mortality by Walter Scott
 2026-06-22 18:11: [BOOK] The Antiquary by Walter Scott
+2026-06-22 23:15: [BOOK] Guy Mannering by Walter Scott
