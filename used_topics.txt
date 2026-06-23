@@ -114,3 +114,4 @@
 2026-06-23 12:30: [BOOK] The Talisman by Walter Scott
 2026-06-23 16:25: [BOOK] Quentin Durward by Walter Scott
 2026-06-23 19:54: [BOOK] The Fair Maid of Perth by Walter Scott
+2026-06-23 23:04: [BOOK] The Legend of Sleepy Hollow by Washington Irving
