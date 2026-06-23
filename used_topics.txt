@@ -113,3 +113,4 @@
 2026-06-23 09:30: [BOOK] Redgauntlet by Walter Scott
 2026-06-23 12:30: [BOOK] The Talisman by Walter Scott
 2026-06-23 16:25: [BOOK] Quentin Durward by Walter Scott
+2026-06-23 19:54: [BOOK] The Fair Maid of Perth by Walter Scott
