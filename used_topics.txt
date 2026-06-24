@@ -115,3 +115,4 @@
 2026-06-23 16:25: [BOOK] Quentin Durward by Walter Scott
 2026-06-23 19:54: [BOOK] The Fair Maid of Perth by Walter Scott
 2026-06-23 23:04: [BOOK] The Legend of Sleepy Hollow by Washington Irving
+2026-06-24 08:59: [BOOK] Rip Van Winkle by Washington Irving
