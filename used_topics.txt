@@ -123,3 +123,4 @@
 2026-06-25 08:53: [BOOK] Frankenstein by Mary Shelley
 2026-06-25 12:14: [BOOK] The Last Man by Mary Shelley
 2026-06-25 16:20: [BOOK] Valperga by Mary Shelley
+2026-06-25 19:52: [BOOK] Jane Eyre by Charlotte Brontë
