@@ -122,3 +122,4 @@
 2026-06-24 23:01: [BOOK] A History of New York by Washington Irving
 2026-06-25 08:53: [BOOK] Frankenstein by Mary Shelley
 2026-06-25 12:14: [BOOK] The Last Man by Mary Shelley
+2026-06-25 16:20: [BOOK] Valperga by Mary Shelley
