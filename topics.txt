@@ -1,4 +1,3 @@
-[BOOK] Oliver Twist by Charles Dickens
 [BOOK] Nicholas Nickleby by Charles Dickens
 [BOOK] The Old Curiosity Shop by Charles Dickens
 [BOOK] Barnaby Rudge by Charles Dickens
