@@ -133,3 +133,4 @@
 2026-06-27 08:31: [BOOK] Oliver Twist by Charles Dickens
 2026-06-27 11:25: [BOOK] Nicholas Nickleby by Charles Dickens
 2026-06-27 15:13: [BOOK] The Old Curiosity Shop by Charles Dickens
+2026-06-27 19:13: [BOOK] Barnaby Rudge by Charles Dickens
