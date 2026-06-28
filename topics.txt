@@ -1,4 +1,3 @@
-[BOOK] David Copperfield by Charles Dickens
 [BOOK] Bleak House by Charles Dickens
 [BOOK] Hard Times by Charles Dickens
 [BOOK] Little Dorrit by Charles Dickens
