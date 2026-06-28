@@ -1,4 +1,3 @@
-[BOOK] Martin Chuzzlewit by Charles Dickens
 [BOOK] Dombey and Son by Charles Dickens
 [BOOK] David Copperfield by Charles Dickens
 [BOOK] Bleak House by Charles Dickens
