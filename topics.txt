@@ -1,4 +1,3 @@
-[BOOK] Bleak House by Charles Dickens
 [BOOK] Hard Times by Charles Dickens
 [BOOK] Little Dorrit by Charles Dickens
 [BOOK] A Tale of Two Cities by Charles Dickens
