@@ -1,4 +1,3 @@
-[BOOK] Hard Times by Charles Dickens
 [BOOK] Little Dorrit by Charles Dickens
 [BOOK] A Tale of Two Cities by Charles Dickens
 [BOOK] Great Expectations by Charles Dickens
