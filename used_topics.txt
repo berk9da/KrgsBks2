@@ -140,3 +140,4 @@
 2026-06-28 15:15: [BOOK] David Copperfield by Charles Dickens
 2026-06-28 19:11: [BOOK] Bleak House by Charles Dickens
 2026-06-28 22:59: [BOOK] Hard Times by Charles Dickens
+2026-06-29 10:47: [BOOK] Little Dorrit by Charles Dickens
