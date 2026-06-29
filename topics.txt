@@ -1,4 +1,3 @@
-[BOOK] A Tale of Two Cities by Charles Dickens
 [BOOK] Great Expectations by Charles Dickens
 [BOOK] Our Mutual Friend by Charles Dickens
 [BOOK] The Mystery of Edwin Drood by Charles Dickens
