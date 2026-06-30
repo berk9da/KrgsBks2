@@ -146,3 +146,4 @@
 2026-06-29 22:52: [BOOK] Our Mutual Friend by Charles Dickens
 2026-06-30 09:25: [BOOK] The Mystery of Edwin Drood by Charles Dickens
 2026-06-30 12:06: [BOOK] The Pickwick Papers by Charles Dickens
+2026-06-30 16:22: [BOOK] Vanity Fair by William Makepeace Thackeray
