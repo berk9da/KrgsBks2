@@ -1,4 +1,3 @@
-[BOOK] The Pickwick Papers by Charles Dickens
 [BOOK] Vanity Fair by William Makepeace Thackeray
 [BOOK] The History of Henry Esmond by William Makepeace Thackeray
 [BOOK] The Newcomes by William Makepeace Thackeray
