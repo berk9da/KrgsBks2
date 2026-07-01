@@ -150,3 +150,4 @@
 2026-06-30 19:48: [BOOK] The History of Henry Esmond by William Makepeace Thackeray
 2026-06-30 23:06: [BOOK] The Newcomes by William Makepeace Thackeray
 2026-07-01 09:37: [BOOK] The Virginians by William Makepeace Thackeray
+2026-07-01 12:31: [BOOK] Pendennis by William Makepeace Thackeray
