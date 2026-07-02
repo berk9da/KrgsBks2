@@ -155,3 +155,4 @@
 2026-07-01 19:46: [BOOK] Middlemarch by George Eliot
 2026-07-02 08:49: [BOOK] The Mill on the Floss by George Eliot
 2026-07-02 12:06: [BOOK] Silas Marner by George Eliot
+2026-07-02 16:02: [BOOK] Adam Bede by George Eliot
