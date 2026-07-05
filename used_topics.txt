@@ -168,3 +168,4 @@
 2026-07-04 19:03: [BOOK] Under the Greenwood Tree by Thomas Hardy
 2026-07-04 22:53: [BOOK] The Woodlanders by Thomas Hardy
 2026-07-05 08:46: [BOOK] A Pair of Blue Eyes by Thomas Hardy
+2026-07-05 11:27: [BOOK] Les Misérables by Victor Hugo
