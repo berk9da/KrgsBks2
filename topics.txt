@@ -1,4 +1,3 @@
-[BOOK] The Black Sheep by Honoré de Balzac
 [BOOK] Germinal by Émile Zola
 [BOOK] Nana by Émile Zola
 [BOOK] L'Assommoir by Émile Zola
