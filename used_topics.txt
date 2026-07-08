@@ -182,3 +182,4 @@
 2026-07-07 22:56: [BOOK] Germinal by Émile Zola
 2026-07-08 08:18: [BOOK] Nana by Émile Zola
 2026-07-08 11:44: [BOOK] L'Assommoir by Émile Zola
+2026-07-08 17:12: [BOOK] The Belly of Paris by Émile Zola
