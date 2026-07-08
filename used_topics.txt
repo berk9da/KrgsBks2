@@ -184,3 +184,4 @@
 2026-07-08 11:44: [BOOK] L'Assommoir by Émile Zola
 2026-07-08 17:12: [BOOK] The Belly of Paris by Émile Zola
 2026-07-08 19:17: [BOOK] The Ladies' Paradise by Émile Zola
+2026-07-08 22:59: [BOOK] The Earth by Émile Zola
