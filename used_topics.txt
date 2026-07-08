@@ -181,3 +181,4 @@
 2026-07-07 19:48: [BOOK] The Black Sheep by Honoré de Balzac
 2026-07-07 22:56: [BOOK] Germinal by Émile Zola
 2026-07-08 08:18: [BOOK] Nana by Émile Zola
+2026-07-08 11:44: [BOOK] L'Assommoir by Émile Zola
