@@ -186,3 +186,4 @@
 2026-07-08 19:17: [BOOK] The Ladies' Paradise by Émile Zola
 2026-07-08 22:59: [BOOK] The Earth by Émile Zola
 2026-07-09 09:29: [BOOK] The Adventures of Huckleberry Finn by Mark Twain
+2026-07-09 16:24: [BOOK] The Adventures of Tom Sawyer by Mark Twain
