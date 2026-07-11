@@ -1,4 +1,3 @@
-[BOOK] Daisy Miller by Henry James
 [BOOK] The Bostonians by Henry James
 [BOOK] Heart of Darkness by Joseph Conrad
 [BOOK] Lord Jim by Joseph Conrad
