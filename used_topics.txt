@@ -196,3 +196,4 @@
 2026-07-10 22:56: [BOOK] The Wings of the Dove by Henry James
 2026-07-11 07:47: [BOOK] The Golden Bowl by Henry James
 2026-07-11 10:59: [BOOK] The Ambassadors by Henry James
+2026-07-11 14:48: [BOOK] Washington Square by Henry James
