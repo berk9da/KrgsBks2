@@ -1,4 +1,3 @@
-[BOOK] Ulysses by James Joyce
 [BOOK] A Portrait of the Artist as a Young Man by James Joyce
 [BOOK] Dubliners by James Joyce
 [BOOK] Finnegans Wake by James Joyce
