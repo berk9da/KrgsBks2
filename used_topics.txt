@@ -208,3 +208,4 @@
 2026-07-13 16:27: [BOOK] Typhoon by Joseph Conrad
 2026-07-13 19:18: [BOOK] Ulysses by James Joyce
 2026-07-14 19:11: [BOOK] A Portrait of the Artist as a Young Man by James Joyce
+2026-07-14 22:53: [BOOK] Dubliners by James Joyce
