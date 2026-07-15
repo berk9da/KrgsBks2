@@ -1,4 +1,3 @@
-[BOOK] Finnegans Wake by James Joyce
 [BOOK] Mrs Dalloway by Virginia Woolf
 [BOOK] To the Lighthouse by Virginia Woolf
 [BOOK] Orlando by Virginia Woolf
