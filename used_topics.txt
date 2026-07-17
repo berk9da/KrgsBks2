@@ -220,3 +220,4 @@
 2026-07-16 19:02: [BOOK] Night and Day by Virginia Woolf
 2026-07-17 08:01: [BOOK] Sons and Lovers by D.H. Lawrence
 2026-07-17 19:00: [BOOK] Women in Love by D.H. Lawrence
+2026-07-17 22:43: [BOOK] The Rainbow by D.H. Lawrence
