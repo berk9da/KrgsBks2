@@ -224,3 +224,4 @@
 2026-07-18 07:40: [BOOK] Lady Chatterley's Lover by D.H. Lawrence
 2026-07-18 10:58: [BOOK] The Plumed Serpent by D.H. Lawrence
 2026-07-18 14:46: [BOOK] A Passage to India by E.M. Forster
+2026-07-18 18:55: [BOOK] Howards End by E.M. Forster
