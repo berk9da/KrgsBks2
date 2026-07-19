@@ -228,3 +228,4 @@
 2026-07-18 22:43: [BOOK] A Room with a View by E.M. Forster
 2026-07-19 08:08: [BOOK] Where Angels Fear to Tread by E.M. Forster
 2026-07-19 14:50: [BOOK] The Longest Journey by E.M. Forster
+2026-07-19 22:45: [BOOK] The Magic Mountain by Thomas Mann
