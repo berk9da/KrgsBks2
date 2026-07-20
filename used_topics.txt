@@ -231,3 +231,4 @@
 2026-07-19 22:45: [BOOK] The Magic Mountain by Thomas Mann
 2026-07-20 08:49: [BOOK] Buddenbrooks by Thomas Mann
 2026-07-20 12:13: [BOOK] Death in Venice by Thomas Mann
+2026-07-20 15:47: [BOOK] Doctor Faustus by Thomas Mann

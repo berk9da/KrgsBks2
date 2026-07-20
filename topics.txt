@@ -1,4 +1,3 @@
-[BOOK] Doctor Faustus by Thomas Mann
 [BOOK] Joseph and His Brothers by Thomas Mann
 [BOOK] The Metamorphosis by Franz Kafka
 [BOOK] The Trial by Franz Kafka
