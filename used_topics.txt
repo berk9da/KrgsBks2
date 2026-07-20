@@ -233,3 +233,4 @@
 2026-07-20 12:13: [BOOK] Death in Venice by Thomas Mann
 2026-07-20 15:47: [BOOK] Doctor Faustus by Thomas Mann
 2026-07-20 19:38: [BOOK] Joseph and His Brothers by Thomas Mann
+2026-07-20 22:54: [BOOK] The Metamorphosis by Franz Kafka
