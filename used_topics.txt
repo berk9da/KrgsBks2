@@ -234,3 +234,4 @@
 2026-07-20 15:47: [BOOK] Doctor Faustus by Thomas Mann
 2026-07-20 19:38: [BOOK] Joseph and His Brothers by Thomas Mann
 2026-07-20 22:54: [BOOK] The Metamorphosis by Franz Kafka
+2026-07-21 08:18: [BOOK] The Trial by Franz Kafka
