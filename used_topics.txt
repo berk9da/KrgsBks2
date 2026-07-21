@@ -237,3 +237,4 @@
 2026-07-21 08:18: [BOOK] The Trial by Franz Kafka
 2026-07-21 15:39: [BOOK] The Castle by Franz Kafka
 2026-07-21 19:12: [BOOK] Amerika by Franz Kafka
+2026-07-21 22:51: [BOOK] In the Penal Colony by Franz Kafka
