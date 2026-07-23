@@ -242,3 +242,4 @@
 2026-07-22 11:44: [BOOK] The Stranger by Albert Camus
 2026-07-22 15:28: [BOOK] The Plague by Albert Camus
 2026-07-22 22:57: [BOOK] The Fall by Albert Camus
+2026-07-23 08:22: [BOOK] The Myth of Sisyphus by Albert Camus
