@@ -250,3 +250,4 @@
 2026-07-24 08:16: [BOOK] The Old Man and the Sea by Ernest Hemingway
 2026-07-24 11:38: [BOOK] A Farewell to Arms by Ernest Hemingway
 2026-07-24 15:22: [BOOK] For Whom the Bell Tolls by Ernest Hemingway
+2026-07-25 11:05: [BOOK] The Sun Also Rises by Ernest Hemingway
