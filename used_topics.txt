@@ -252,3 +252,4 @@
 2026-07-24 15:22: [BOOK] For Whom the Bell Tolls by Ernest Hemingway
 2026-07-25 11:05: [BOOK] The Sun Also Rises by Ernest Hemingway
 2026-07-25 14:58: [BOOK] A Moveable Feast by Ernest Hemingway
+2026-07-25 19:00: [BOOK] The Great Gatsby by F. Scott Fitzgerald
