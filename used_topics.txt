@@ -257,3 +257,4 @@
 2026-07-26 11:16: [BOOK] This Side of Paradise by F. Scott Fitzgerald
 2026-07-26 15:00: [BOOK] The Beautiful and Damned by F. Scott Fitzgerald
 2026-07-26 19:03: [BOOK] The Sound and the Fury by William Faulkner
+2026-07-26 22:56: [BOOK] As I Lay Dying by William Faulkner
