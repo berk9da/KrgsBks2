@@ -254,3 +254,4 @@
 2026-07-25 14:58: [BOOK] A Moveable Feast by Ernest Hemingway
 2026-07-25 19:00: [BOOK] The Great Gatsby by F. Scott Fitzgerald
 2026-07-26 08:18: [BOOK] Tender Is the Night by F. Scott Fitzgerald
+2026-07-26 11:16: [BOOK] This Side of Paradise by F. Scott Fitzgerald
