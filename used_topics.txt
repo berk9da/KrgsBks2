@@ -261,3 +261,4 @@
 2026-07-27 09:40: [BOOK] Absalom Absalom by William Faulkner
 2026-07-27 12:52: [BOOK] Light in August by William Faulkner
 2026-07-27 16:13: [BOOK] The Wild Palms by William Faulkner
+2026-07-28 22:54: [BOOK] The Grapes of Wrath by John Steinbeck
